@@ -18,20 +18,20 @@ Students will learn a basic framework for understanding emotional intelligence a
 ## Session Outline
 
 
- 1. Introductions (15 - 20 minutes, lead by , see slide deck for intro format )
+ 1. Introductions (15 - 20 minutes, lead by , see slide deck for intro format, lead by Sara)
     - Icebreaker
- 2. Intro to ei - Description and surface level explanation. (5 minutes, slides 3-6, lead by )
- 3. Video and discussion (20 minutes)
+ 2. Intro to ei - Description and surface level explanation. (5 minutes, slides 3-6, lead by Cesar)
+ 3. Video and discussion (20 minutes, lead by Dan)
     - 3 - 5 minute video
     - 15 minute discussion
     - Share with room
     - One person from each group: what stood out amongst what you   HEARD in your small group discussions?
 
- 4. Group activity (20 - 30 minutes)
+ 4. Group activity (20 - 30 minutes, lead by Kaylee)
     - Follows this format : https://www.kqed.org/mindshift/40880/a-simple-exercise-to-strengthen-emotional-intelligence-in-teams
     - Option 1 or Option 2 depending on time left after the discussion
 
- 5. Wrap up discussion (10 minutes)
+ 5. Wrap up discussion (10 minutes, lead by Dan)
     - When you imagine your future, as a developer, what role 
   does emotional intelligence (both your own and others’) 
   play in that vision?
